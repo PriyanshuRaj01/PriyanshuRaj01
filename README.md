@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Studying **Frontend**
 
-- ⚡ Fun fact **I Thik i am good Singer**
+- ⚡ Fun fact **"Full-stack developer with a side hustle in desi cooking."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
